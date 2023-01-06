@@ -1,0 +1,337 @@
+Index,sexe,age,arrondissement,bureau,visite_score,communication,satisfait_score,la foule,Manque des employé,mauvaise maniere Traitement,les_horaires,jourFoule,bureauAvis,amileoration
+0,Femme,entre 18 et 25ans,ZOUGHA,ZOUGHA,rarement,oui,2,oui,non,non,entre 9 et 11,lundi,aucune id�e,
+1,Femme,entre 18 et 25ans,ZOUGHA,ZOUGHA,rarement,oui,2,non,non,oui,,,aucune id�e,
+2,Homme,plus de 35ans,JNAN EL WARD,SAHB LWARD,plusieurs fois par année,oui,1,non,non,oui,,,aucune id�e,
+3,Homme,entre 18 et 25ans,FES-MEDINA,KARAOUIYINE,rarement,non,3,non,non,oui,,,aucune id�e,
+4,Femme,entre 18 et 25ans,ZOUGHA,ZOUGHA,rarement,oui,3,oui,non,non,entre 9 et 11,lundi,Organiser les horaires,
+5,Femme,entre 18 et 25ans,AGDAL,TARIKBATHA,des fois par année,non,1,non,non,oui,,,Happy,
+6,Femme,entre 18 et 25ans,MERINIDES,DHAR LAKHMISS,rarement,non,1,oui,non,oui,entre 9 et 11,lundi,L'organisation,
+7,Homme,entre 18 et 25ans,JNAN EL WARD,SAHB LWARD,des fois par année,non,0,oui,oui,oui,entre 9 et 11,lundi, ,
+8,Homme,entre 18 et 25ans,SAISS,NARJISS,des fois par année,non,3,non,oui,oui,entre 1 et 3,mardi,Organisation,
+9,Femme,entre 18 et 25ans,ZOUGHA,ZOUGHA,rarement,non,2,oui,non,non,entre 9 et 11,lundi,Rien,Pas mal malgré le manque de respect et negligence des personnel
+10,Femme,entre 18 et 25ans,ZOUGHA,BENSOUDA,des fois par année,non,3,non,non,oui,entre 11 et 1,mercredi,embaucher des employé plus compétent  ,pas mal
+11,Homme,entre 25 et 35,JNAN EL WARD,LOUIZAT,rarement,oui,0,oui,oui,oui,entre 11 et 1,lundi,Augmentation du nombre d'employés et digitalisation de la gestion,En mauvais état
+12,Femme,entre 18 et 25ans,AGDAL,ADARISSABATHA,rarement,non,1,non,oui,oui,entre 9 et 11,jeudi,G,G
+13,Femme,moins de 18ans,AGDAL,TARIKBOUANANIA,rarement,oui,2,non,oui,oui,entre 9 et 11,lundi,Je ne sais pass,Pas mal
+14,Homme,entre 18 et 25ans,FES-MEDINA,BATHA,des fois par année,non,0,oui,non,oui,entre 9 et 11,vendredi,idk,idk
+15,Homme,entre 18 et 25ans,ZOUGHA,ZOUGHA,des fois par année,oui,4,non,non,oui,entre 9 et 11,lundi,Il faut embaucher et mettre en place des employes de plus pour faciliter la tache à eux et aux citoyens ,Nul
+16,Homme,entre 18 et 25ans,SAISS,NARJISS,des fois par année,non,1,oui,oui,oui,entre 9 et 11,lundi,Les tentatives de surveillance pour recevoir des pots de vin,je pense que il est mieux que les autres bureau j'ai deja visite
+17,Homme,entre 18 et 25ans,SAISS,ZOUHOUR,des fois par année,non,0,non,oui,oui,entre 11 et 1,mercredi,..... ,Sous-standard 
+18,Homme,entre 18 et 25ans,SAISS,NARJISS,des fois par année,non,3,non,non,oui,entre 9 et 11,lundi,Néant ,Néant 
+19,Femme,entre 18 et 25ans,SAISS,ZOUHOUR,rarement,non,0,non,non,oui,entre 9 et 11,mercredi,"Employer plus, development de locaux
+",Mal
+20,Homme,entre 25 et 35,JNAN EL WARD,JNANAT,des fois par année,oui,3,non,non,oui,entre 11 et 1,vendredi,Respecter et apprécier les conditions des citoyens, Moyenne dans la prestation de services
+21,Homme,entre 18 et 25ans,FES-MEDINA,ANDALOUS,plusieurs fois par année,non,1,non,non,oui,entre 9 et 11,mercredi,Plus de bus pour réduire la congestion,Beau
+22,Homme,entre 18 et 25ans,SAISS,MOURABITEN,rarement,non,3,non,oui,non,entre 9 et 11,mardi,Augmentation des fonctionnaires + chaque fonctionnaire travail dans ça spécialité ,Po mal
+23,Homme,entre 18 et 25ans,JNAN EL WARD,JNANAT,des fois par année,non,2,oui,non,oui,entre 9 et 11,lundi,...,   كون مكاش صاحبو دالواليد خدام فيها كون راه كان شحال من بربليم
+24,Homme,entre 25 et 35,SAISS,NARJISS,rarement,oui,1,oui,oui,oui,entre 1 et 3,lundi,Utilisation des données informatisées,Globalement bien
+25,Homme,entre 18 et 25ans,JNAN EL WARD,SAHB LWARD,rarement,non,1,oui,non,oui,entre 9 et 11,lundi,respectés les citoyens,trés mal
+26,Homme,entre 18 et 25ans,JNAN EL WARD,EL KOBA,rarement,non,1,non,non,oui,entre 9 et 11,mercredi,,
+27,Femme,entre 18 et 25ans,ZOUGHA,EL MASSIRA,plusieurs fois par année,oui,3,non,non,oui,entre 9 et 11,jeudi,,
+28,Homme,entre 18 et 25ans,JNAN EL WARD,SAHB LWARD,rarement,non,0,non,non,oui,entre 9 et 11,mardi,,
+29,Homme,entre 18 et 25ans,AGDAL,SIDI BRAHIMANDALOUS,plusieurs fois par année,non,3,non,oui,oui,entre 9 et 11,mercredi,une meilleure formation pour les employés,pourrait être mieux
+30,Femme,entre 18 et 25ans,JNAN EL WARD,SIDI BOUJIDA,des fois par année,non,3,non,oui,non,entre 9 et 11,jeudi,,
+31,Femme,entre 18 et 25ans,MERINIDES,BEN DABBAB :,rarement,non,1,oui,non,non,entre 9 et 11,vendredi,,
+32,Femme,entre 18 et 25ans,SAISS,NARJISS,plusieurs fois par année,non,4,non,oui,non,entre 9 et 11,jeudi,,
+33,Homme,entre 18 et 25ans,ZOUGHA,ZOUGHA,plusieurs fois par année,non,3,non,oui,non,entre 9 et 11,lundi,L'employé doit être dans son bureau tôt et le service doit être disponible dans un système et non par la corruption et le favoritisme,mauvais service
+34,Homme,entre 25 et 35,JNAN EL WARD,LOUIZAT,rarement,oui,0,oui,oui,oui,entre 11 et 1,lundi,زيادة في عدد الموضفين و المكاتب و رقمنة الادارة,دون المستوى
+35,Homme,entre 18 et 25ans,SAISS,ZOUHOUR,plusieurs fois par année,non,0,non,non,oui,aprés 3,lundi,impossible,mal
+36,Femme,entre 18 et 25ans,AGDAL,DOUKKARATBOUANANIA,rarement,non,2,non,oui,oui,entre 9 et 11,lundi,,
+37,Femme,entre 18 et 25ans,JNAN EL WARD,SAHB LWARD,rarement,non,0,non,non,oui,entre 9 et 11,lundi,",",","
+38,Homme,entre 18 et 25ans,MERINIDES,BEN DABBAB :,plusieurs fois par année,non,3,non,non,oui,entre 9 et 11,mardi,,
+39,Homme,entre 18 et 25ans,SAISS,NARJISS,rarement,non,1,oui,oui,oui,entre 9 et 11,lundi,"Il a besoin d'un très gros travail, je pense que si les services étaient tous à distance, ce serait beaucoup mieux","Très mauvais services, parfois j'ai besoin de trois heures ou plus pour passer mes besoins, ce qui est vraiment très mauvais"
+40,Homme,entre 25 et 35,SAISS,AIN AMER,rarement,oui,2,oui,non,non,entre 9 et 11,lundi,service des extraits de naissance doit etre informatise,bien
+41,Homme,entre 18 et 25ans,JNAN EL WARD,LOUIZAT,des fois par année,non,3,non,non,oui,entre 1 et 3,vendredi,La manière ou la façons de traiter avec les gens,Pas mal
+42,Femme,entre 18 et 25ans,ZOUGHA,ZOUGHA,rarement,non,0,non,non,oui,entre 9 et 11,lundi,المراقبة باش كل واحد يعرف ان هاديك خدمتو ماشي تطوع منو باش يبقا يتنفخ ,معاملة لا تناسب الإدارات 
+43,Homme,entre 18 et 25ans,ZOUGHA,ZOUGHA,rarement,non,3,non,non,oui,entre 9 et 11,lundi,respect le temps et bon service ,ne pas bon service 
+44,Femme,entre 18 et 25ans,SAISS,ZOUHOUR,des fois par année,non,2,non,oui,non,entre 9 et 11,lundi,Je pense que les employés devraient améliorer la qualité de leur travail,Pas mal en général
+45,Femme,entre 18 et 25ans,ZOUGHA,ZOUGHA,des fois par année,non,2,non,non,oui,entre 9 et 11,mardi,,
+46,Femme,entre 18 et 25ans,SAISS,RIAD,des fois par année,non,3,non,oui,oui,entre 9 et 11,lundi,Respect ,
+47,Homme,entre 18 et 25ans,SAISS,NARJISS,des fois par année,non,3,non,non,oui,entre 9 et 11,lundi,,
+48,Femme,entre 18 et 25ans,ZOUGHA,ZOUGHA,des fois par année,non,0,non,oui,non,entre 9 et 11,mercredi,,
+49,Homme,entre 18 et 25ans,ZOUGHA,ZOUGHA,des fois par année,non,0,non,oui,oui,entre 11 et 1,lundi,الرفع من عدد الاداريين و المستقبلين وتوعية المواطنين  مع ضرورة اعتماد الخدمات الالكترونية ,أظن أنه هناك غياب للتنظيم وضعف عدد الاداريين مقارنة مع عدد الزوار
+50,Femme,entre 18 et 25ans,JNAN EL WARD,LOUIZAT,des fois par année,non,0,non,non,oui,entre 9 et 11,mardi,d'abord les employés doivent être moraux car il ya un grand manque de respect vers les citoyens +   donner l'opportunité aux jeunes d'y travailler ,extrêmement mauvais
+51,Femme,entre 18 et 25ans,FES-MEDINA,BLIDA,des fois par année,non,3,non,non,oui,entre 9 et 11,vendredi,,
+52,Homme,entre 18 et 25ans,ZOUGHA,ZOUGHA,rarement,non,3,non,oui,non,entre 9 et 11,mercredi,augmenté nb des emplyer + gestion de service et en fin plus de respect,pas male
+53,Homme,entre 18 et 25ans,JNAN EL WARD,SAHB LWARD,rarement,non,0,oui,oui,oui,entre 9 et 11,lundi,Des sites et des applications afin da faciliter les services pour les citoyens ,Il est incapable d'accomplir ses tâches et a beaucoup de voleurs 
+54,Femme,entre 25 et 35,ZOUGHA,ZOUGHA,des fois par année,oui,0,non,oui,oui,entre 9 et 11,vendredi,,
+55,Homme,entre 25 et 35,FES-MEDINA,BATHA,rarement,oui,1,non,non,oui,entre 9 et 11,mardi,Increasing the number of employees and the use of technology to faster the services ,
+56,Femme,entre 25 et 35,SAISS,NARJISS,plusieurs fois par année,oui,3,oui,non,oui,entre 11 et 1,lundi,"Organiser le circuit de travail 
+Répondre aux besoins de la population dans les brefs délais 
+Lutter contre la corruption
+Assurer le personnel suffisant pour répondre aux besoins de la population ","Des services un peu satisfaisants , la foule et mauvaise organisation "
+57,Femme,entre 18 et 25ans,ZOUGHA,BENSOUDA,rarement,non,2,oui,non,non,entre 9 et 11,lundi,إضافة موظفين في كل مصلحة  حتى يتسنى للمواطنين   قضاء مصالحهم بشكل سريع ,أجد أن خدماته جيدة
+58,Homme,entre 18 et 25ans,MERINIDES,TGHAT,rarement,non,1,oui,non,non,entre 1 et 3,lundi,,
+59,Homme,entre 18 et 25ans,JNAN EL WARD,SAHB LWARD,plusieurs fois par année,non,2,non,oui,non,entre 9 et 11,mardi,"Augmenter le nombre des employés 
+Changer totalement le décore de la comune (c’est pas bon qu’une comune ne s’est pas changé dendans pour des dizaines d’années)
+Plus d’agents de sécurité pour tout bien organiser 
+Appliquer la loi des amendes sur les employés ",Il a besoin d’un renouvellement 
+60,Homme,entre 18 et 25ans,ZOUGHA,ZOUGHA,rarement,non,0,non,non,oui,entre 9 et 11,jeudi,,عدم الاحترافية، 
+61,Femme,entre 18 et 25ans,AGDAL,SIDI BRAHIMKARAOUIYINE,rarement,non,3,non,oui,non,entre 1 et 3,mardi,,
+62,Homme,entre 18 et 25ans,AGDAL,AGDALLAMTIYINE,rarement,non,2,oui,oui,oui,entre 9 et 11,lundi,Reformulation complètement et formation continue des employés ,Manque de responsabilité et de sérieux 
+63,Homme,entre 18 et 25ans,ZOUGHA,ZOUGHA,des fois par année,non,2,oui,oui,oui,entre 11 et 1,vendredi,,
+64,Femme,entre 18 et 25ans,ZOUGHA,ZOUGHA,des fois par année,non,3,non,oui,oui,entre 11 et 1,vendredi,,
+65,Femme,entre 18 et 25ans,AGDAL,SIDI BRAHIMLAMTIYINE,des fois par année,non,3,non,non,oui,entre 9 et 11,lundi,"Augmenter le nombre d'employés pour éviter le surpeuplement
+Formation des comités de suivi",Ils fournissent un service insatisfaisant en raison de la négligence de certains employés et de l'incapacité à faciliter les services aux citoyens parfois
+66,Homme,entre 18 et 25ans,ZOUGHA,ZOUGHA,rarement,non,2,non,non,oui,entre 11 et 1,jeudi,,
+67,Femme,entre 18 et 25ans,MERINIDES,BEN DABBAB :,plusieurs fois par année,non,3,non,non,oui,entre 11 et 1,mercredi,Bien controler ,Mauvaise affaire
+68,Homme,entre 18 et 25ans,FES-MEDINA,BAB LKHOUKHA,rarement,non,0,non,non,oui,entre 9 et 11,lundi,,
+69,Femme,entre 18 et 25ans,FES-MEDINA,BAB LKHOUKHA,des fois par année,non,3,non,non,oui,entre 9 et 11,vendredi,,Des mal services 
+70,Femme,entre 18 et 25ans,FES-MEDINA,ANDALOUS,rarement,non,2,non,non,oui,entre 9 et 11,mardi,,
+71,Homme,entre 18 et 25ans,AGDAL,DAR DBIBAGHANDALOUS,des fois par année,non,1,oui,oui,oui,entre 9 et 11,lundi,Tout changer,Du n'importe quoi
+72,Femme,entre 18 et 25ans,FES-MEDINA,BATHA,des fois par année,non,0,oui,oui,oui,entre 9 et 11,lundi,,
+73,Femme,entre 18 et 25ans,JNAN EL WARD,SAHB LWARD,plusieurs fois par année,non,0,oui,non,oui,entre 9 et 11,lundi,,
+74,Homme,entre 25 et 35,SAISS,NARJISS,des fois par année,non,3,oui,non,non,entre 11 et 1,mardi,"Il faut du personnel et organiser le travail, simplifier les procédures administratives ",Il faut du personnel et organiser le travail 
+75,Femme,entre 18 et 25ans,MERINIDES,DHAR LAKHMISS,rarement,oui,1,non,oui,oui,entre 11 et 1,lundi,,
+76,Homme,entre 18 et 25ans,SAISS,ZOUHOUR,des fois par année,non,2,non,non,oui,entre 9 et 11,vendredi,,
+77,Homme,entre 18 et 25ans,SAISS,NARJISS,des fois par année,non,0,oui,non,oui,entre 9 et 11,lundi,Des personnages morales,Mauvaise 
+78,Femme,entre 18 et 25ans,FES-MEDINA,BAB LKHOUKHA,des fois par année,non,2,oui,non,oui,entre 1 et 3,lundi,,
+79,Femme,entre 18 et 25ans,FES-MEDINA,BATHA,des fois par année,non,3,non,non,oui,entre 9 et 11,vendredi,,
+80,Homme,entre 18 et 25ans,FES-MEDINA,ANDALOUS,plusieurs fois par année,oui,0,oui,oui,oui,entre 11 et 1,mardi,,
+81,Femme,entre 18 et 25ans,AGDAL,AGDALANDALOUS,des fois par année,non,3,non,non,oui,entre 9 et 11,lundi,Donner l l'opportunité à les jeunes de travailler ,Peu satisfaisant 
+82,Homme,entre 18 et 25ans,ZOUGHA,ZOUGHA,plusieurs fois par année,non,3,non,oui,non,entre 11 et 1,vendredi,,
+83,Femme,entre 18 et 25ans,JNAN EL WARD,SIDI BOUJIDA,des fois par année,non,1,non,non,oui,entre 9 et 11,lundi,,
+84,Femme,entre 18 et 25ans,ZOUGHA,ZOUGHA,rarement,oui,2,oui,non,non,entre 9 et 11,lundi,aucune id�e,
+85,Femme,entre 18 et 25ans,ZOUGHA,ZOUGHA,rarement,oui,2,non,non,oui,,,aucune id�e,
+86,Homme,plus de 35ans,JNAN EL WARD,SAHB LWARD,plusieurs fois par année,oui,1,non,non,oui,,,aucune id�e,
+87,Homme,entre 18 et 25ans,FES-MEDINA,KARAOUIYINE,rarement,non,3,non,non,oui,,,aucune id�e,
+88,Femme,entre 18 et 25ans,ZOUGHA,ZOUGHA,rarement,oui,3,oui,non,non,entre 9 et 11,lundi,Organiser les horaires,
+89,Femme,entre 18 et 25ans,AGDAL,TARIKBATHA,des fois par année,non,1,non,non,oui,,,Happy,
+90,Femme,entre 18 et 25ans,MERINIDES,DHAR LAKHMISS,rarement,non,1,oui,non,oui,entre 9 et 11,lundi,L'organisation,
+91,Homme,entre 18 et 25ans,JNAN EL WARD,SAHB LWARD,des fois par année,non,0,oui,oui,oui,entre 9 et 11,lundi, ,
+92,Homme,entre 18 et 25ans,SAISS,NARJISS,des fois par année,non,3,non,oui,oui,entre 1 et 3,mardi,Organisation,
+93,Femme,entre 18 et 25ans,ZOUGHA,ZOUGHA,rarement,non,2,oui,non,non,entre 9 et 11,lundi,Rien,Pas mal malgré le manque de respect et negligence des personnel
+94,Femme,entre 18 et 25ans,ZOUGHA,BENSOUDA,des fois par année,non,3,non,non,oui,entre 11 et 1,mercredi,embaucher des employé plus compétent  ,pas mal
+95,Homme,entre 25 et 35,JNAN EL WARD,LOUIZAT,rarement,oui,0,oui,oui,oui,entre 11 et 1,lundi,Augmentation du nombre d'employés et digitalisation de la gestion,En mauvais état
+96,Femme,entre 18 et 25ans,AGDAL,ADARISSABATHA,rarement,non,1,non,oui,oui,entre 9 et 11,jeudi,G,G
+97,Femme,moins de 18ans,AGDAL,TARIKBOUANANIA,rarement,oui,2,non,oui,oui,entre 9 et 11,lundi,Je ne sais pass,Pas mal
+98,Homme,entre 18 et 25ans,FES-MEDINA,BATHA,des fois par année,non,0,oui,non,oui,entre 9 et 11,vendredi,idk,idk
+99,Homme,entre 18 et 25ans,ZOUGHA,ZOUGHA,des fois par année,oui,4,non,non,oui,entre 9 et 11,lundi,Il faut embaucher et mettre en place des employes de plus pour faciliter la tache à eux et aux citoyens ,Nul
+100,Homme,entre 18 et 25ans,SAISS,NARJISS,des fois par année,non,1,oui,oui,oui,entre 9 et 11,lundi,Les tentatives de surveillance pour recevoir des pots de vin,je pense que il est mieux que les autres bureau j'ai deja visite
+101,Homme,entre 18 et 25ans,SAISS,ZOUHOUR,des fois par année,non,0,non,oui,oui,entre 11 et 1,mercredi,..... ,Sous-standard 
+102,Homme,entre 18 et 25ans,SAISS,NARJISS,des fois par année,non,3,non,non,oui,entre 9 et 11,lundi,Néant ,Néant 
+103,Femme,entre 18 et 25ans,SAISS,ZOUHOUR,rarement,non,0,non,non,oui,entre 9 et 11,mercredi,"Employer plus, development de locaux
+",Mal
+104,Homme,entre 25 et 35,JNAN EL WARD,JNANAT,des fois par année,oui,3,non,non,oui,entre 11 et 1,vendredi,Respecter et apprécier les conditions des citoyens, Moyenne dans la prestation de services
+105,Homme,entre 18 et 25ans,FES-MEDINA,ANDALOUS,plusieurs fois par année,non,1,non,non,oui,entre 9 et 11,mercredi,Plus de bus pour réduire la congestion,Beau
+106,Homme,entre 18 et 25ans,SAISS,MOURABITEN,rarement,non,3,non,oui,non,entre 9 et 11,mardi,Augmentation des fonctionnaires + chaque fonctionnaire travail dans ça spécialité ,Po mal
+107,Homme,entre 18 et 25ans,JNAN EL WARD,JNANAT,des fois par année,non,2,oui,non,oui,entre 9 et 11,lundi,...,   كون مكاش صاحبو دالواليد خدام فيها كون راه كان شحال من بربليم
+108,Homme,entre 25 et 35,SAISS,NARJISS,rarement,oui,1,oui,oui,oui,entre 1 et 3,lundi,Utilisation des données informatisées,Globalement bien
+109,Homme,entre 18 et 25ans,JNAN EL WARD,SAHB LWARD,rarement,non,1,oui,non,oui,entre 9 et 11,lundi,respectés les citoyens,trés mal
+110,Homme,entre 18 et 25ans,JNAN EL WARD,EL KOBA,rarement,non,1,non,non,oui,entre 9 et 11,mercredi,,
+111,Femme,entre 18 et 25ans,ZOUGHA,EL MASSIRA,plusieurs fois par année,oui,3,non,non,oui,entre 9 et 11,jeudi,,
+112,Homme,entre 18 et 25ans,JNAN EL WARD,SAHB LWARD,rarement,non,0,non,non,oui,entre 9 et 11,mardi,,
+113,Homme,entre 18 et 25ans,AGDAL,SIDI BRAHIMANDALOUS,plusieurs fois par année,non,3,non,oui,oui,entre 9 et 11,mercredi,une meilleure formation pour les employés,pourrait être mieux
+114,Femme,entre 18 et 25ans,JNAN EL WARD,SIDI BOUJIDA,des fois par année,non,3,non,oui,non,entre 9 et 11,jeudi,,
+115,Femme,entre 18 et 25ans,MERINIDES,BEN DABBAB :,rarement,non,1,oui,non,non,entre 9 et 11,vendredi,,
+116,Femme,entre 18 et 25ans,SAISS,NARJISS,plusieurs fois par année,non,4,non,oui,non,entre 9 et 11,jeudi,,
+117,Homme,entre 18 et 25ans,ZOUGHA,ZOUGHA,plusieurs fois par année,non,3,non,oui,non,entre 9 et 11,lundi,L'employé doit être dans son bureau tôt et le service doit être disponible dans un système et non par la corruption et le favoritisme,mauvais service
+118,Homme,entre 25 et 35,JNAN EL WARD,LOUIZAT,rarement,oui,0,oui,oui,oui,entre 11 et 1,lundi,زيادة في عدد الموضفين و المكاتب و رقمنة الادارة,دون المستوى
+119,Homme,entre 18 et 25ans,SAISS,ZOUHOUR,plusieurs fois par année,non,0,non,non,oui,aprés 3,lundi,impossible,mal
+120,Femme,entre 18 et 25ans,AGDAL,DOUKKARATBOUANANIA,rarement,non,2,non,oui,oui,entre 9 et 11,lundi,,
+121,Femme,entre 18 et 25ans,JNAN EL WARD,SAHB LWARD,rarement,non,0,non,non,oui,entre 9 et 11,lundi,",",","
+122,Homme,entre 18 et 25ans,MERINIDES,BEN DABBAB :,plusieurs fois par année,non,3,non,non,oui,entre 9 et 11,mardi,,
+123,Homme,entre 18 et 25ans,SAISS,NARJISS,rarement,non,1,oui,oui,oui,entre 9 et 11,lundi,"Il a besoin d'un très gros travail, je pense que si les services étaient tous à distance, ce serait beaucoup mieux","Très mauvais services, parfois j'ai besoin de trois heures ou plus pour passer mes besoins, ce qui est vraiment très mauvais"
+124,Homme,entre 25 et 35,SAISS,AIN AMER,rarement,oui,2,oui,non,non,entre 9 et 11,lundi,service des extraits de naissance doit etre informatise,bien
+125,Homme,entre 18 et 25ans,JNAN EL WARD,LOUIZAT,des fois par année,non,3,non,non,oui,entre 1 et 3,vendredi,La manière ou la façons de traiter avec les gens,Pas mal
+126,Femme,entre 18 et 25ans,ZOUGHA,ZOUGHA,rarement,non,0,non,non,oui,entre 9 et 11,lundi,المراقبة باش كل واحد يعرف ان هاديك خدمتو ماشي تطوع منو باش يبقا يتنفخ ,معاملة لا تناسب الإدارات 
+127,Homme,entre 18 et 25ans,ZOUGHA,ZOUGHA,rarement,non,3,non,non,oui,entre 9 et 11,lundi,respect le temps et bon service ,ne pas bon service 
+128,Femme,entre 18 et 25ans,SAISS,ZOUHOUR,des fois par année,non,2,non,oui,non,entre 9 et 11,lundi,Je pense que les employés devraient améliorer la qualité de leur travail,Pas mal en général
+129,Femme,entre 18 et 25ans,ZOUGHA,ZOUGHA,des fois par année,non,2,non,non,oui,entre 9 et 11,mardi,,
+130,Femme,entre 18 et 25ans,SAISS,RIAD,des fois par année,non,3,non,oui,oui,entre 9 et 11,lundi,Respect ,
+131,Homme,entre 18 et 25ans,SAISS,NARJISS,des fois par année,non,3,non,non,oui,entre 9 et 11,lundi,,
+132,Femme,entre 18 et 25ans,ZOUGHA,ZOUGHA,des fois par année,non,0,non,oui,non,entre 9 et 11,mercredi,,
+133,Homme,entre 18 et 25ans,ZOUGHA,ZOUGHA,des fois par année,non,0,non,oui,oui,entre 11 et 1,lundi,الرفع من عدد الاداريين و المستقبلين وتوعية المواطنين  مع ضرورة اعتماد الخدمات الالكترونية ,أظن أنه هناك غياب للتنظيم وضعف عدد الاداريين مقارنة مع عدد الزوار
+134,Femme,entre 18 et 25ans,JNAN EL WARD,LOUIZAT,des fois par année,non,0,non,non,oui,entre 9 et 11,mardi,d'abord les employés doivent être moraux car il ya un grand manque de respect vers les citoyens +   donner l'opportunité aux jeunes d'y travailler ,extrêmement mauvais
+135,Femme,entre 18 et 25ans,FES-MEDINA,BLIDA,des fois par année,non,3,non,non,oui,entre 9 et 11,vendredi,,
+136,Homme,entre 18 et 25ans,ZOUGHA,ZOUGHA,rarement,non,3,non,oui,non,entre 9 et 11,mercredi,augmenté nb des emplyer + gestion de service et en fin plus de respect,pas male
+137,Homme,entre 18 et 25ans,JNAN EL WARD,SAHB LWARD,rarement,non,0,oui,oui,oui,entre 9 et 11,lundi,Des sites et des applications afin da faciliter les services pour les citoyens ,Il est incapable d'accomplir ses tâches et a beaucoup de voleurs 
+138,Femme,entre 25 et 35,ZOUGHA,ZOUGHA,des fois par année,oui,0,non,oui,oui,entre 9 et 11,vendredi,,
+139,Homme,entre 25 et 35,FES-MEDINA,BATHA,rarement,oui,1,non,non,oui,entre 9 et 11,mardi,Increasing the number of employees and the use of technology to faster the services ,
+140,Femme,entre 25 et 35,SAISS,NARJISS,plusieurs fois par année,oui,3,oui,non,oui,entre 11 et 1,lundi,"Organiser le circuit de travail 
+Répondre aux besoins de la population dans les brefs délais 
+Lutter contre la corruption
+Assurer le personnel suffisant pour répondre aux besoins de la population ","Des services un peu satisfaisants , la foule et mauvaise organisation "
+141,Femme,entre 18 et 25ans,ZOUGHA,BENSOUDA,rarement,non,2,oui,non,non,entre 9 et 11,lundi,إضافة موظفين في كل مصلحة  حتى يتسنى للمواطنين   قضاء مصالحهم بشكل سريع ,أجد أن خدماته جيدة
+142,Homme,entre 18 et 25ans,MERINIDES,TGHAT,rarement,non,1,oui,non,non,entre 1 et 3,lundi,,
+143,Homme,entre 18 et 25ans,JNAN EL WARD,SAHB LWARD,plusieurs fois par année,non,2,non,oui,non,entre 9 et 11,mardi,"Augmenter le nombre des employés 
+Changer totalement le décore de la comune (c’est pas bon qu’une comune ne s’est pas changé dendans pour des dizaines d’années)
+Plus d’agents de sécurité pour tout bien organiser 
+Appliquer la loi des amendes sur les employés ",Il a besoin d’un renouvellement 
+144,Homme,entre 18 et 25ans,ZOUGHA,ZOUGHA,rarement,non,0,non,non,oui,entre 9 et 11,jeudi,,عدم الاحترافية، 
+145,Femme,entre 18 et 25ans,AGDAL,SIDI BRAHIMKARAOUIYINE,rarement,non,3,non,oui,non,entre 1 et 3,mardi,,
+146,Homme,entre 18 et 25ans,AGDAL,AGDALLAMTIYINE,rarement,non,2,oui,oui,oui,entre 9 et 11,lundi,Reformulation complètement et formation continue des employés ,Manque de responsabilité et de sérieux 
+147,Homme,entre 18 et 25ans,ZOUGHA,ZOUGHA,des fois par année,non,2,oui,oui,oui,entre 11 et 1,vendredi,,
+148,Femme,entre 18 et 25ans,ZOUGHA,ZOUGHA,des fois par année,non,3,non,oui,oui,entre 11 et 1,vendredi,,
+149,Femme,entre 18 et 25ans,AGDAL,SIDI BRAHIMLAMTIYINE,des fois par année,non,3,non,non,oui,entre 9 et 11,lundi,"Augmenter le nombre d'employés pour éviter le surpeuplement
+Formation des comités de suivi",Ils fournissent un service insatisfaisant en raison de la négligence de certains employés et de l'incapacité à faciliter les services aux citoyens parfois
+150,Homme,entre 18 et 25ans,ZOUGHA,ZOUGHA,rarement,non,2,non,non,oui,entre 11 et 1,jeudi,,
+151,Femme,entre 18 et 25ans,MERINIDES,BEN DABBAB :,plusieurs fois par année,non,3,non,non,oui,entre 11 et 1,mercredi,Bien controler ,Mauvaise affaire
+152,Homme,entre 18 et 25ans,FES-MEDINA,BAB LKHOUKHA,rarement,non,0,non,non,oui,entre 9 et 11,lundi,,
+153,Femme,entre 18 et 25ans,FES-MEDINA,BAB LKHOUKHA,des fois par année,non,3,non,non,oui,entre 9 et 11,vendredi,,Des mal services 
+154,Femme,entre 18 et 25ans,FES-MEDINA,ANDALOUS,rarement,non,2,non,non,oui,entre 9 et 11,mardi,,
+155,Homme,entre 18 et 25ans,AGDAL,DAR DBIBAGHANDALOUS,des fois par année,non,1,oui,oui,oui,entre 9 et 11,lundi,Tout changer,Du n'importe quoi
+156,Femme,entre 18 et 25ans,FES-MEDINA,BATHA,des fois par année,non,0,oui,oui,oui,entre 9 et 11,lundi,,
+157,Femme,entre 18 et 25ans,JNAN EL WARD,SAHB LWARD,plusieurs fois par année,non,0,oui,non,oui,entre 9 et 11,lundi,,
+158,Homme,entre 25 et 35,SAISS,NARJISS,des fois par année,non,3,oui,non,non,entre 11 et 1,mardi,"Il faut du personnel et organiser le travail, simplifier les procédures administratives ",Il faut du personnel et organiser le travail 
+159,Femme,entre 18 et 25ans,MERINIDES,DHAR LAKHMISS,rarement,oui,1,non,oui,oui,entre 11 et 1,lundi,,
+160,Homme,entre 18 et 25ans,SAISS,ZOUHOUR,des fois par année,non,2,non,non,oui,entre 9 et 11,vendredi,,
+161,Homme,entre 18 et 25ans,SAISS,NARJISS,des fois par année,non,0,oui,non,oui,entre 9 et 11,lundi,Des personnages morales,Mauvaise 
+162,Femme,entre 18 et 25ans,FES-MEDINA,BAB LKHOUKHA,des fois par année,non,2,oui,non,oui,entre 1 et 3,lundi,,
+163,Femme,entre 18 et 25ans,FES-MEDINA,BATHA,des fois par année,non,3,non,non,oui,entre 9 et 11,vendredi,,
+164,Homme,entre 18 et 25ans,FES-MEDINA,ANDALOUS,plusieurs fois par année,oui,0,oui,oui,oui,entre 11 et 1,mardi,,
+165,Femme,entre 18 et 25ans,AGDAL,AGDALANDALOUS,des fois par année,non,3,non,non,oui,entre 9 et 11,lundi,Donner l l'opportunité à les jeunes de travailler ,Peu satisfaisant 
+166,Homme,entre 18 et 25ans,ZOUGHA,ZOUGHA,plusieurs fois par année,non,3,non,oui,non,entre 11 et 1,vendredi,,
+167,Femme,entre 18 et 25ans,JNAN EL WARD,SIDI BOUJIDA,des fois par année,non,1,non,non,oui,entre 9 et 11,lundi,,
+168,Homme,entre 18 et 25ans,JNAN EL WARD,SAHB LWARD,rarement,non,0,oui,oui,oui,entre 9 et 11,lundi,Des sites et des applications afin da faciliter les services pour les citoyens ,Il est incapable d'accomplir ses tâches et a beaucoup de voleurs 
+169,Femme,entre 25 et 35,ZOUGHA,ZOUGHA,des fois par année,oui,0,non,oui,oui,entre 9 et 11,vendredi,,
+170,Homme,entre 25 et 35,FES-MEDINA,BATHA,rarement,oui,1,non,non,oui,entre 9 et 11,mardi,Increasing the number of employees and the use of technology to faster the services ,
+171,Femme,entre 25 et 35,SAISS,NARJISS,plusieurs fois par année,oui,3,oui,non,oui,entre 11 et 1,lundi,"Organiser le circuit de travail 
+Répondre aux besoins de la population dans les brefs délais 
+Lutter contre la corruption
+Assurer le personnel suffisant pour répondre aux besoins de la population ","Des services un peu satisfaisants , la foule et mauvaise organisation "
+172,Femme,entre 18 et 25ans,ZOUGHA,BENSOUDA,rarement,non,2,oui,non,non,entre 9 et 11,lundi,إضافة موظفين في كل مصلحة  حتى يتسنى للمواطنين   قضاء مصالحهم بشكل سريع ,أجد أن خدماته جيدة
+173,Homme,entre 18 et 25ans,MERINIDES,TGHAT,rarement,non,1,oui,non,non,entre 1 et 3,lundi,,
+174,Homme,entre 18 et 25ans,JNAN EL WARD,SAHB LWARD,plusieurs fois par année,non,2,non,oui,non,entre 9 et 11,mardi,"Augmenter le nombre des employés 
+Changer totalement le décore de la comune (c’est pas bon qu’une comune ne s’est pas changé dendans pour des dizaines d’années)
+Plus d’agents de sécurité pour tout bien organiser 
+Appliquer la loi des amendes sur les employés ",Il a besoin d’un renouvellement 
+175,Homme,entre 18 et 25ans,ZOUGHA,ZOUGHA,rarement,non,0,non,non,oui,entre 9 et 11,jeudi,,عدم الاحترافية، 
+176,Femme,entre 18 et 25ans,AGDAL,SIDI BRAHIMKARAOUIYINE,rarement,non,3,non,oui,non,entre 1 et 3,mardi,,
+177,Homme,entre 18 et 25ans,AGDAL,AGDALLAMTIYINE,rarement,non,2,oui,oui,oui,entre 9 et 11,lundi,Reformulation complètement et formation continue des employés ,Manque de responsabilité et de sérieux 
+178,Homme,entre 18 et 25ans,ZOUGHA,ZOUGHA,des fois par année,non,2,oui,oui,oui,entre 11 et 1,vendredi,,
+179,Femme,entre 18 et 25ans,ZOUGHA,ZOUGHA,des fois par année,non,3,non,oui,oui,entre 11 et 1,vendredi,,
+180,Femme,entre 18 et 25ans,AGDAL,SIDI BRAHIMLAMTIYINE,des fois par année,non,3,non,non,oui,entre 9 et 11,lundi,"Augmenter le nombre d'employés pour éviter le surpeuplement
+Formation des comités de suivi",Ils fournissent un service insatisfaisant en raison de la négligence de certains employés et de l'incapacité à faciliter les services aux citoyens parfois
+181,Homme,entre 18 et 25ans,ZOUGHA,ZOUGHA,rarement,non,2,non,non,oui,entre 11 et 1,jeudi,,
+182,Femme,entre 18 et 25ans,MERINIDES,BEN DABBAB :,plusieurs fois par année,non,3,non,non,oui,entre 11 et 1,mercredi,Bien controler ,Mauvaise affaire
+183,Homme,entre 18 et 25ans,FES-MEDINA,BAB LKHOUKHA,rarement,non,0,non,non,oui,entre 9 et 11,lundi,,
+184,Femme,entre 18 et 25ans,FES-MEDINA,BAB LKHOUKHA,des fois par année,non,3,non,non,oui,entre 9 et 11,vendredi,,Des mal services 
+185,Femme,entre 18 et 25ans,FES-MEDINA,ANDALOUS,rarement,non,2,non,non,oui,entre 9 et 11,mardi,,
+186,Homme,entre 18 et 25ans,AGDAL,DAR DBIBAGHANDALOUS,des fois par année,non,1,oui,oui,oui,entre 9 et 11,lundi,Tout changer,Du n'importe quoi
+187,Femme,entre 18 et 25ans,FES-MEDINA,BATHA,des fois par année,non,0,oui,oui,oui,entre 9 et 11,lundi,,
+188,Femme,entre 18 et 25ans,JNAN EL WARD,SAHB LWARD,plusieurs fois par année,non,0,oui,non,oui,entre 9 et 11,lundi,,
+189,Homme,entre 25 et 35,SAISS,NARJISS,des fois par année,non,3,oui,non,non,entre 11 et 1,mardi,"Il faut du personnel et organiser le travail, simplifier les procédures administratives ",Il faut du personnel et organiser le travail 
+190,Femme,entre 18 et 25ans,MERINIDES,DHAR LAKHMISS,rarement,oui,1,non,oui,oui,entre 11 et 1,lundi,,
+191,Homme,entre 18 et 25ans,SAISS,ZOUHOUR,des fois par année,non,2,non,non,oui,entre 9 et 11,vendredi,,
+192,Homme,entre 18 et 25ans,SAISS,NARJISS,des fois par année,non,0,oui,non,oui,entre 9 et 11,lundi,Des personnages morales,Mauvaise 
+193,Femme,entre 18 et 25ans,FES-MEDINA,BAB LKHOUKHA,des fois par année,non,2,oui,non,oui,entre 1 et 3,lundi,,
+194,Femme,entre 18 et 25ans,FES-MEDINA,BATHA,des fois par année,non,3,non,non,oui,entre 9 et 11,vendredi,,
+195,Homme,entre 18 et 25ans,FES-MEDINA,ANDALOUS,plusieurs fois par année,oui,0,oui,oui,oui,entre 11 et 1,mardi,,
+196,Femme,entre 18 et 25ans,AGDAL,AGDALANDALOUS,des fois par année,non,3,non,non,oui,entre 9 et 11,lundi,Donner l l'opportunité à les jeunes de travailler ,Peu satisfaisant 
+197,Homme,entre 18 et 25ans,ZOUGHA,ZOUGHA,plusieurs fois par année,non,3,non,oui,non,entre 11 et 1,vendredi,,
+198,Femme,entre 18 et 25ans,JNAN EL WARD,SIDI BOUJIDA,des fois par année,non,1,non,non,oui,entre 9 et 11,lundi,,
+199,Femme,entre 18 et 25ans,ZOUGHA,ZOUGHA,rarement,oui,2,oui,non,non,entre 9 et 11,lundi,aucune id�e,
+200,Femme,entre 18 et 25ans,ZOUGHA,ZOUGHA,rarement,oui,2,non,non,oui,,,aucune id�e,
+201,Homme,plus de 35ans,JNAN EL WARD,SAHB LWARD,plusieurs fois par année,oui,1,non,non,oui,,,aucune id�e,
+202,Homme,entre 18 et 25ans,FES-MEDINA,KARAOUIYINE,rarement,non,3,non,non,oui,,,aucune id�e,
+203,Femme,entre 18 et 25ans,ZOUGHA,ZOUGHA,rarement,oui,3,oui,non,non,entre 9 et 11,lundi,Organiser les horaires,
+204,Femme,entre 18 et 25ans,AGDAL,TARIKBATHA,des fois par année,non,1,non,non,oui,,,Happy,
+205,Femme,entre 18 et 25ans,MERINIDES,DHAR LAKHMISS,rarement,non,1,oui,non,oui,entre 9 et 11,lundi,L'organisation,
+206,Homme,entre 18 et 25ans,JNAN EL WARD,SAHB LWARD,des fois par année,non,0,oui,oui,oui,entre 9 et 11,lundi, ,
+207,Homme,entre 18 et 25ans,SAISS,NARJISS,des fois par année,non,3,non,oui,oui,entre 1 et 3,mardi,Organisation,
+208,Femme,entre 18 et 25ans,ZOUGHA,ZOUGHA,rarement,non,2,oui,non,non,entre 9 et 11,lundi,Rien,Pas mal malgré le manque de respect et negligence des personnel
+209,Femme,entre 18 et 25ans,ZOUGHA,BENSOUDA,des fois par année,non,3,non,non,oui,entre 11 et 1,mercredi,embaucher des employé plus compétent  ,pas mal
+210,Homme,entre 25 et 35,JNAN EL WARD,LOUIZAT,rarement,oui,0,oui,oui,oui,entre 11 et 1,lundi,Augmentation du nombre d'employés et digitalisation de la gestion,En mauvais état
+211,Femme,entre 18 et 25ans,AGDAL,ADARISSABATHA,rarement,non,1,non,oui,oui,entre 9 et 11,jeudi,G,G
+212,Femme,moins de 18ans,AGDAL,TARIKBOUANANIA,rarement,oui,2,non,oui,oui,entre 9 et 11,lundi,Je ne sais pass,Pas mal
+213,Homme,entre 18 et 25ans,FES-MEDINA,BATHA,des fois par année,non,0,oui,non,oui,entre 9 et 11,vendredi,idk,idk
+214,Homme,entre 18 et 25ans,ZOUGHA,ZOUGHA,des fois par année,oui,4,non,non,oui,entre 9 et 11,lundi,Il faut embaucher et mettre en place des employes de plus pour faciliter la tache à eux et aux citoyens ,Nul
+215,Homme,entre 18 et 25ans,SAISS,NARJISS,des fois par année,non,1,oui,oui,oui,entre 9 et 11,lundi,Les tentatives de surveillance pour recevoir des pots de vin,je pense que il est mieux que les autres bureau j'ai deja visite
+216,Homme,entre 18 et 25ans,SAISS,ZOUHOUR,des fois par année,non,0,non,oui,oui,entre 11 et 1,mercredi,..... ,Sous-standard 
+217,Homme,entre 18 et 25ans,SAISS,NARJISS,des fois par année,non,3,non,non,oui,entre 9 et 11,lundi,Néant ,Néant 
+218,Femme,entre 18 et 25ans,SAISS,ZOUHOUR,rarement,non,0,non,non,oui,entre 9 et 11,mercredi,"Employer plus, development de locaux
+",Mal
+219,Homme,entre 25 et 35,JNAN EL WARD,JNANAT,des fois par année,oui,3,non,non,oui,entre 11 et 1,vendredi,Respecter et apprécier les conditions des citoyens, Moyenne dans la prestation de services
+220,Homme,entre 18 et 25ans,FES-MEDINA,ANDALOUS,plusieurs fois par année,non,1,non,non,oui,entre 9 et 11,mercredi,Plus de bus pour réduire la congestion,Beau
+221,Homme,entre 18 et 25ans,SAISS,MOURABITEN,rarement,non,3,non,oui,non,entre 9 et 11,mardi,Augmentation des fonctionnaires + chaque fonctionnaire travail dans ça spécialité ,Po mal
+222,Homme,entre 18 et 25ans,JNAN EL WARD,JNANAT,des fois par année,non,2,oui,non,oui,entre 9 et 11,lundi,...,   كون مكاش صاحبو دالواليد خدام فيها كون راه كان شحال من بربليم
+223,Homme,entre 25 et 35,SAISS,NARJISS,rarement,oui,1,oui,oui,oui,entre 1 et 3,lundi,Utilisation des données informatisées,Globalement bien
+224,Homme,entre 18 et 25ans,JNAN EL WARD,SAHB LWARD,rarement,non,1,oui,non,oui,entre 9 et 11,lundi,respectés les citoyens,trés mal
+225,Homme,entre 18 et 25ans,JNAN EL WARD,EL KOBA,rarement,non,1,non,non,oui,entre 9 et 11,mercredi,,
+226,Femme,entre 18 et 25ans,ZOUGHA,EL MASSIRA,plusieurs fois par année,oui,3,non,non,oui,entre 9 et 11,jeudi,,
+227,Homme,entre 18 et 25ans,JNAN EL WARD,SAHB LWARD,rarement,non,0,non,non,oui,entre 9 et 11,mardi,,
+228,Homme,entre 18 et 25ans,AGDAL,SIDI BRAHIMANDALOUS,plusieurs fois par année,non,3,non,oui,oui,entre 9 et 11,mercredi,une meilleure formation pour les employés,pourrait être mieux
+229,Femme,entre 18 et 25ans,JNAN EL WARD,SIDI BOUJIDA,des fois par année,non,3,non,oui,non,entre 9 et 11,jeudi,,
+230,Femme,entre 18 et 25ans,MERINIDES,BEN DABBAB :,rarement,non,1,oui,non,non,entre 9 et 11,vendredi,,
+231,Femme,entre 18 et 25ans,SAISS,NARJISS,plusieurs fois par année,non,4,non,oui,non,entre 9 et 11,jeudi,,
+232,Homme,entre 18 et 25ans,ZOUGHA,ZOUGHA,plusieurs fois par année,non,3,non,oui,non,entre 9 et 11,lundi,L'employé doit être dans son bureau tôt et le service doit être disponible dans un système et non par la corruption et le favoritisme,mauvais service
+233,Homme,entre 25 et 35,JNAN EL WARD,LOUIZAT,rarement,oui,0,oui,oui,oui,entre 11 et 1,lundi,زيادة في عدد الموضفين و المكاتب و رقمنة الادارة,دون المستوى
+234,Homme,entre 18 et 25ans,SAISS,ZOUHOUR,plusieurs fois par année,non,0,non,non,oui,aprés 3,lundi,impossible,mal
+235,Femme,entre 18 et 25ans,AGDAL,DOUKKARATBOUANANIA,rarement,non,2,non,oui,oui,entre 9 et 11,lundi,,
+236,Femme,entre 18 et 25ans,JNAN EL WARD,SAHB LWARD,rarement,non,0,non,non,oui,entre 9 et 11,lundi,",",","
+237,Homme,entre 18 et 25ans,MERINIDES,BEN DABBAB :,plusieurs fois par année,non,3,non,non,oui,entre 9 et 11,mardi,,
+238,Homme,entre 18 et 25ans,SAISS,NARJISS,rarement,non,1,oui,oui,oui,entre 9 et 11,lundi,"Il a besoin d'un très gros travail, je pense que si les services étaient tous à distance, ce serait beaucoup mieux","Très mauvais services, parfois j'ai besoin de trois heures ou plus pour passer mes besoins, ce qui est vraiment très mauvais"
+239,Homme,entre 25 et 35,SAISS,AIN AMER,rarement,oui,2,oui,non,non,entre 9 et 11,lundi,service des extraits de naissance doit etre informatise,bien
+240,Homme,entre 18 et 25ans,JNAN EL WARD,LOUIZAT,des fois par année,non,3,non,non,oui,entre 1 et 3,vendredi,La manière ou la façons de traiter avec les gens,Pas mal
+241,Femme,entre 18 et 25ans,ZOUGHA,ZOUGHA,rarement,non,0,non,non,oui,entre 9 et 11,lundi,المراقبة باش كل واحد يعرف ان هاديك خدمتو ماشي تطوع منو باش يبقا يتنفخ ,معاملة لا تناسب الإدارات 
+242,Homme,entre 18 et 25ans,ZOUGHA,ZOUGHA,rarement,non,3,non,non,oui,entre 9 et 11,lundi,respect le temps et bon service ,ne pas bon service 
+243,Femme,entre 18 et 25ans,SAISS,ZOUHOUR,des fois par année,non,2,non,oui,non,entre 9 et 11,lundi,Je pense que les employés devraient améliorer la qualité de leur travail,Pas mal en général
+244,Femme,entre 18 et 25ans,ZOUGHA,ZOUGHA,des fois par année,non,2,non,non,oui,entre 9 et 11,mardi,,
+245,Femme,entre 18 et 25ans,SAISS,RIAD,des fois par année,non,3,non,oui,oui,entre 9 et 11,lundi,Respect ,
+246,Homme,entre 18 et 25ans,SAISS,NARJISS,des fois par année,non,3,non,non,oui,entre 9 et 11,lundi,,
+247,Femme,entre 18 et 25ans,ZOUGHA,ZOUGHA,des fois par année,non,0,non,oui,non,entre 9 et 11,mercredi,,
+248,Homme,entre 18 et 25ans,ZOUGHA,ZOUGHA,des fois par année,non,0,non,oui,oui,entre 11 et 1,lundi,الرفع من عدد الاداريين و المستقبلين وتوعية المواطنين  مع ضرورة اعتماد الخدمات الالكترونية ,أظن أنه هناك غياب للتنظيم وضعف عدد الاداريين مقارنة مع عدد الزوار
+249,Femme,entre 18 et 25ans,JNAN EL WARD,LOUIZAT,des fois par année,non,0,non,non,oui,entre 9 et 11,mardi,d'abord les employés doivent être moraux car il ya un grand manque de respect vers les citoyens +   donner l'opportunité aux jeunes d'y travailler ,extrêmement mauvais
+250,Femme,entre 18 et 25ans,FES-MEDINA,BLIDA,des fois par année,non,3,non,non,oui,entre 9 et 11,vendredi,,
+251,Homme,entre 18 et 25ans,ZOUGHA,ZOUGHA,rarement,non,3,non,oui,non,entre 9 et 11,mercredi,augmenté nb des emplyer + gestion de service et en fin plus de respect,pas male
+252,Homme,entre 18 et 25ans,JNAN EL WARD,SAHB LWARD,rarement,non,0,oui,oui,oui,entre 9 et 11,lundi,Des sites et des applications afin da faciliter les services pour les citoyens ,Il est incapable d'accomplir ses tâches et a beaucoup de voleurs 
+253,Femme,entre 25 et 35,ZOUGHA,ZOUGHA,des fois par année,oui,0,non,oui,oui,entre 9 et 11,vendredi,,
+254,Homme,entre 25 et 35,FES-MEDINA,BATHA,rarement,oui,1,non,non,oui,entre 9 et 11,mardi,Increasing the number of employees and the use of technology to faster the services ,
+255,Femme,entre 25 et 35,SAISS,NARJISS,plusieurs fois par année,oui,3,oui,non,oui,entre 11 et 1,lundi,"Organiser le circuit de travail 
+Répondre aux besoins de la population dans les brefs délais 
+Lutter contre la corruption
+Assurer le personnel suffisant pour répondre aux besoins de la population ","Des services un peu satisfaisants , la foule et mauvaise organisation "
+256,Femme,entre 18 et 25ans,ZOUGHA,BENSOUDA,rarement,non,2,oui,non,non,entre 9 et 11,lundi,إضافة موظفين في كل مصلحة  حتى يتسنى للمواطنين   قضاء مصالحهم بشكل سريع ,أجد أن خدماته جيدة
+257,Homme,entre 18 et 25ans,MERINIDES,TGHAT,rarement,non,1,oui,non,non,entre 1 et 3,lundi,,
+258,Homme,entre 18 et 25ans,JNAN EL WARD,SAHB LWARD,plusieurs fois par année,non,2,non,oui,non,entre 9 et 11,mardi,"Augmenter le nombre des employés 
+Changer totalement le décore de la comune (c’est pas bon qu’une comune ne s’est pas changé dendans pour des dizaines d’années)
+Plus d’agents de sécurité pour tout bien organiser 
+Appliquer la loi des amendes sur les employés ",Il a besoin d’un renouvellement 
+259,Homme,entre 18 et 25ans,ZOUGHA,ZOUGHA,rarement,non,0,non,non,oui,entre 9 et 11,jeudi,,عدم الاحترافية، 
+260,Femme,entre 18 et 25ans,AGDAL,SIDI BRAHIMKARAOUIYINE,rarement,non,3,non,oui,non,entre 1 et 3,mardi,,
+261,Homme,entre 18 et 25ans,AGDAL,AGDALLAMTIYINE,rarement,non,2,oui,oui,oui,entre 9 et 11,lundi,Reformulation complètement et formation continue des employés ,Manque de responsabilité et de sérieux 
+262,Homme,entre 18 et 25ans,ZOUGHA,ZOUGHA,des fois par année,non,2,oui,oui,oui,entre 11 et 1,vendredi,,
+263,Femme,entre 18 et 25ans,ZOUGHA,ZOUGHA,des fois par année,non,3,non,oui,oui,entre 11 et 1,vendredi,,
+264,Femme,entre 18 et 25ans,AGDAL,SIDI BRAHIMLAMTIYINE,des fois par année,non,3,non,non,oui,entre 9 et 11,lundi,"Augmenter le nombre d'employés pour éviter le surpeuplement
+Formation des comités de suivi",Ils fournissent un service insatisfaisant en raison de la négligence de certains employés et de l'incapacité à faciliter les services aux citoyens parfois
+265,Homme,plus de 35ans,JNAN EL WARD,SAHB LWARD,plusieurs fois par année,oui,1,non,non,oui,,,aucune id�e,
+266,Homme,entre 18 et 25ans,FES-MEDINA,KARAOUIYINE,rarement,non,3,non,non,oui,,,aucune id�e,
+267,Femme,entre 18 et 25ans,ZOUGHA,ZOUGHA,rarement,oui,3,oui,non,non,entre 9 et 11,lundi,Organiser les horaires,
+268,Femme,entre 18 et 25ans,AGDAL,TARIKBATHA,des fois par année,non,1,non,non,oui,,,Happy,
+269,Femme,entre 18 et 25ans,MERINIDES,DHAR LAKHMISS,rarement,non,1,oui,non,oui,entre 9 et 11,lundi,L'organisation,
+270,Homme,entre 18 et 25ans,JNAN EL WARD,SAHB LWARD,des fois par année,non,0,oui,oui,oui,entre 9 et 11,lundi, ,
+271,Homme,entre 18 et 25ans,SAISS,NARJISS,des fois par année,non,3,non,oui,oui,entre 1 et 3,mardi,Organisation,
+272,Femme,entre 18 et 25ans,ZOUGHA,ZOUGHA,rarement,non,2,oui,non,non,entre 9 et 11,lundi,Rien,Pas mal malgré le manque de respect et negligence des personnel
+273,Femme,entre 18 et 25ans,ZOUGHA,BENSOUDA,des fois par année,non,3,non,non,oui,entre 11 et 1,mercredi,embaucher des employé plus compétent  ,pas mal
+274,Homme,entre 25 et 35,JNAN EL WARD,LOUIZAT,rarement,oui,0,oui,oui,oui,entre 11 et 1,lundi,Augmentation du nombre d'employés et digitalisation de la gestion,En mauvais état
+275,Femme,entre 18 et 25ans,AGDAL,ADARISSABATHA,rarement,non,1,non,oui,oui,entre 9 et 11,jeudi,G,G
+276,Femme,moins de 18ans,AGDAL,TARIKBOUANANIA,rarement,oui,2,non,oui,oui,entre 9 et 11,lundi,Je ne sais pass,Pas mal
+277,Homme,entre 18 et 25ans,FES-MEDINA,BATHA,des fois par année,non,0,oui,non,oui,entre 9 et 11,vendredi,idk,idk
+278,Homme,entre 18 et 25ans,ZOUGHA,ZOUGHA,des fois par année,oui,4,non,non,oui,entre 9 et 11,lundi,Il faut embaucher et mettre en place des employes de plus pour faciliter la tache à eux et aux citoyens ,Nul
+279,Homme,entre 18 et 25ans,SAISS,NARJISS,des fois par année,non,1,oui,oui,oui,entre 9 et 11,lundi,Les tentatives de surveillance pour recevoir des pots de vin,je pense que il est mieux que les autres bureau j'ai deja visite
+280,Homme,entre 18 et 25ans,SAISS,ZOUHOUR,des fois par année,non,0,non,oui,oui,entre 11 et 1,mercredi,..... ,Sous-standard 
+281,Homme,entre 18 et 25ans,SAISS,NARJISS,des fois par année,non,3,non,non,oui,entre 9 et 11,lundi,Néant ,Néant 
+282,Femme,entre 18 et 25ans,SAISS,ZOUHOUR,rarement,non,0,non,non,oui,entre 9 et 11,mercredi,"Employer plus, development de locaux
+",Mal
+283,Homme,entre 25 et 35,JNAN EL WARD,JNANAT,des fois par année,oui,3,non,non,oui,entre 11 et 1,vendredi,Respecter et apprécier les conditions des citoyens, Moyenne dans la prestation de services
+284,Homme,entre 18 et 25ans,FES-MEDINA,ANDALOUS,plusieurs fois par année,non,1,non,non,oui,entre 9 et 11,mercredi,Plus de bus pour réduire la congestion,Beau
+285,Homme,entre 18 et 25ans,SAISS,MOURABITEN,rarement,non,3,non,oui,non,entre 9 et 11,mardi,Augmentation des fonctionnaires + chaque fonctionnaire travail dans ça spécialité ,Po mal
+286,Homme,entre 18 et 25ans,JNAN EL WARD,JNANAT,des fois par année,non,2,oui,non,oui,entre 9 et 11,lundi,...,   كون مكاش صاحبو دالواليد خدام فيها كون راه كان شحال من بربليم
+287,Homme,entre 25 et 35,SAISS,NARJISS,rarement,oui,1,oui,oui,oui,entre 1 et 3,lundi,Utilisation des données informatisées,Globalement bien
+288,Homme,entre 18 et 25ans,JNAN EL WARD,SAHB LWARD,rarement,non,1,oui,non,oui,entre 9 et 11,lundi,respectés les citoyens,trés mal
+289,Homme,entre 18 et 25ans,JNAN EL WARD,EL KOBA,rarement,non,1,non,non,oui,entre 9 et 11,mercredi,,
+290,Femme,entre 18 et 25ans,ZOUGHA,EL MASSIRA,plusieurs fois par année,oui,3,non,non,oui,entre 9 et 11,jeudi,,
+291,Homme,entre 18 et 25ans,JNAN EL WARD,SAHB LWARD,rarement,non,0,non,non,oui,entre 9 et 11,mardi,,
+292,Homme,entre 18 et 25ans,AGDAL,SIDI BRAHIMANDALOUS,plusieurs fois par année,non,3,non,oui,oui,entre 9 et 11,mercredi,une meilleure formation pour les employés,pourrait être mieux
+293,Femme,entre 18 et 25ans,JNAN EL WARD,SIDI BOUJIDA,des fois par année,non,3,non,oui,non,entre 9 et 11,jeudi,,
+294,Femme,entre 18 et 25ans,MERINIDES,BEN DABBAB :,rarement,non,1,oui,non,non,entre 9 et 11,vendredi,,
+295,Femme,entre 18 et 25ans,SAISS,NARJISS,plusieurs fois par année,non,4,non,oui,non,entre 9 et 11,jeudi,,
+296,Homme,entre 18 et 25ans,ZOUGHA,ZOUGHA,plusieurs fois par année,non,3,non,oui,non,entre 9 et 11,lundi,L'employé doit être dans son bureau tôt et le service doit être disponible dans un système et non par la corruption et le favoritisme,mauvais service
+297,Homme,entre 25 et 35,JNAN EL WARD,LOUIZAT,rarement,oui,0,oui,oui,oui,entre 11 et 1,lundi,زيادة في عدد الموضفين و المكاتب و رقمنة الادارة,دون المستوى
+298,Homme,entre 18 et 25ans,SAISS,ZOUHOUR,plusieurs fois par année,non,0,non,non,oui,aprés 3,lundi,impossible,mal
+299,Femme,entre 18 et 25ans,AGDAL,DOUKKARATBOUANANIA,rarement,non,2,non,oui,oui,entre 9 et 11,lundi,,
+300,Femme,entre 18 et 25ans,JNAN EL WARD,SAHB LWARD,rarement,non,0,non,non,oui,entre 9 et 11,lundi,",",","
+301,Homme,entre 18 et 25ans,MERINIDES,BEN DABBAB :,plusieurs fois par année,non,3,non,non,oui,entre 9 et 11,mardi,,
+302,Homme,entre 18 et 25ans,SAISS,NARJISS,rarement,non,1,oui,oui,oui,entre 9 et 11,lundi,"Il a besoin d'un très gros travail, je pense que si les services étaient tous à distance, ce serait beaucoup mieux","Très mauvais services, parfois j'ai besoin de trois heures ou plus pour passer mes besoins, ce qui est vraiment très mauvais"
+303,Homme,entre 25 et 35,SAISS,AIN AMER,rarement,oui,2,oui,non,non,entre 9 et 11,lundi,service des extraits de naissance doit etre informatise,bien

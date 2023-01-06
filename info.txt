@@ -1,0 +1,9 @@
+
+appc.py :  code source de l'application web
+fichie csv :  donnes deja codé
+sheet.json : pour acceder au questionnaire google form (sheet)
+untitelid8:  traitement des donnes et analyse par python
+logiciel et api :
+-anaconda : jupyter spider
+-streamlit : pip installl streamlit : streamlit run appc.py (detail sur github)
+
